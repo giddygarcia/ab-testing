@@ -13,19 +13,22 @@ Each dataset analysis will have their individual notebooks for reading.
 | [Notebook 2](https://github.com/TuringCollegeSubmissions/cgarci-DS.v3.2.2.5/blob/main/fast-food.ipynb) - Fast Food Marketing | Between 3 types of marketing promotions, which promotion sees higher sales of the new product? |
 
 ## 🔑 Key Findings:
-1. For Cookie Cats, it is recommended that the developers stay with the Control Group — leave the first checkpoint that players encounter at **Gate 30**
-2. Among the 3 Promotions of the new fast food product, **Promotion 1** sees the highest possible median sales.
+| Topic | Finding |
+|-------|------------|
+| Cookie Cats Retention | Recommended for the development team to keep the first checkpoint at **Gate 30** (Control Group). |
+| Fast Food Promotions | **Promotion 1** sees the highest median sales among the three promotions. |
+
 
 ## 📊 Introductory Report (Looker Studio)
 The 2nd dataset on Fast Food Marketing can be accompanied by an introductory [Looker Studio Report](https://lookerstudio.google.com/s/pzXi02x76aM) on the data.
 
 It reports **data counts** and **Sales across the weeks**; providing a quick view of what we can expect to work with for the analysis:
 
-![Looker Studio Pie Chart](graphics\LookerStudio-Pie.png)
+![Looker Studio Pie Chart](graphics/LookerStudio-Pie.png)
 
-![Looker Studio Mean Weeks Chart](graphics\LookerStudio-Mean.png)
+![Looker Studio Mean Weeks Chart](graphics/LookerStudio-Mean.png)
 
-![Looker Studio Median Weeks Chart](graphics\LookerStudio-Median.png)
+![Looker Studio Median Weeks Chart](graphics/LookerStudio-Median.png)
 
 ## 📦 Libraries used:
 * pandas
