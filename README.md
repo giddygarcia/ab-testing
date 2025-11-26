@@ -46,13 +46,7 @@ It reports **data counts** and **Sales across the weeks**; providing a quick vie
 ### 🔎 Viewing / Installation:
 * *Viewing Option:* Simply view the notebook files "mobile-game.ipynb" or "fast-food.ipynb"
 * *Full Installation Option:* To develop on the notebooks firsthand, clone this repo\
-    ```git clone https://github.com/TuringCollegeSubmissions/cgarci-DS.v3.2.2.5.git```
+    ```git clone https://github.com/giddygarcia/ab-testing```
 
 ## 📠 Author and Contact Information
-Developed by: Christine Angela Garcia | cgarci
-
-Have further questions? You may reach out to me on the Turing College Discord
-
-
-*(DS.v3.2.2.5)*\
-*Developed in line with Module 2, Sprint 2, Project 2 specifications of Turing College's Data Science course*
+Developed by: Christine / Giddy Garcia 
